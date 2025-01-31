@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "d1694e51c9023f2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c7f41c44f626d5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d96d37d369ba5749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LFS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e389dcae306a658",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a1ef20d595913d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "605458545df42d26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "32f518caf97748c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "838e1aebd1d7d36c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c4de066323c28d5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd04635f98ccd340",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2609020fea99bccd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LFS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LFS"
+            }
+          },
+          {
+            "id": "b99a8d593573c7e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LFS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LFS"
+            }
+          },
+          {
+            "id": "ac817771412c02dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16ff7c1412aed46e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LFS.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LFS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d96d37d369ba5749",
+  "lastOpenFiles": [
+    "LFS.md",
+    "Welcome.md"
+  ]
+}
