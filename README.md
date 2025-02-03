@@ -1,3 +1,5 @@
+# Introduction
+ft_linux project have some spesific requirements i am not gona explain every thing about lfs becouse the book is well made, i will only explain the thinks spesific for ft_linux
 ## Base distro
 As my base distro i use manjaro live env, becouse i am familiar with arch and manjaro has good live env. There are some required packages that are missing i list them below
 - bison 
